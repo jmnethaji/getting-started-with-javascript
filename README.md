@@ -35,14 +35,3 @@ Developing solutions for these problems, will give a good hold over JavaScript s
 6. First, test the solution locally by running the command `npm run test`.  
 7. Refactor the solution to ensure all test cases are passing.  
 8. DO NOT MODIFY THE PROVIDED CODE, ELSE THIS MAY IMPACT THE TEST CODE EXECUTION.
-
-## Submitting your solution for preliminary automated review  
-
- 1. Open https://hobbes.stackroute.in/#/submission and login into the platform  
- 2. Under Assignment repository select `getting-started-with-javascript`, and branch master  
- 3. Under Your solution repository select your own repository and branch  
- 4. Press Submit  
- 5. Evaluation will take around 2 mins to complete after which you need to refresh your browser and get the updated status    
- 6. Press click here for the feedback 
- 7. Watch out for your total score and detailed status on each test and eslint errors in the coloured blocks on the screen  
- 8. Fix failing test cases as well as eslint errors and re-submit your solution until you get 100%  
